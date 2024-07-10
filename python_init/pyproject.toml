@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "win-init"
+name = "python-init"
 version = "0.1.0"
 description = ""
 authors = ["Rafał Bazan <rafalbe777@gmail.com>"]
 readme = "README.md"
-packages = [{include = "win_config"}]
+packages = [{include = "python_config"}]
 
 [tool.poetry.dependencies]
 python = "^3.12"

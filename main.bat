@@ -1,0 +1,1 @@
+powershell -Command "Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope Process; .\python_init\python_install.ps1"
